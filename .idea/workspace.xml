@@ -5,7 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3414a22c-4776-4628-987a-a6e28b8664f9" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/MaximumElements.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MaximumElements.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
